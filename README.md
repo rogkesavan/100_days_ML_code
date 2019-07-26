@@ -1,5 +1,5 @@
 
-A day to day plan for this challenge. Covers both theoritical and practical aspects.
+A day to day plan
 
 I followed https://github.com/prakhar21/100-Days-of-ML 
 
